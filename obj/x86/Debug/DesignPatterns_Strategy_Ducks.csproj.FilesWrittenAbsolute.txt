@@ -1,0 +1,5 @@
+/Users/krystopher/Projects/DesignPatterns_Strategy_Ducks/DesignPatterns_Strategy_Ducks/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/krystopher/Projects/DesignPatterns_Strategy_Ducks/DesignPatterns_Strategy_Ducks/bin/Debug/DesignPatterns_Strategy_Ducks.exe.mdb
+/Users/krystopher/Projects/DesignPatterns_Strategy_Ducks/DesignPatterns_Strategy_Ducks/bin/Debug/DesignPatterns_Strategy_Ducks.exe
+/Users/krystopher/Projects/DesignPatterns_Strategy_Ducks/DesignPatterns_Strategy_Ducks/obj/x86/Debug/DesignPatterns_Strategy_Ducks.exe
+/Users/krystopher/Projects/DesignPatterns_Strategy_Ducks/DesignPatterns_Strategy_Ducks/obj/x86/Debug/DesignPatterns_Strategy_Ducks.exe.mdb
